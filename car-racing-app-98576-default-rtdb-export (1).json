@@ -1,0 +1,16 @@
+{
+  "GAMESTATE" : 0,
+  "player1" : {
+    "name" : ""
+  },
+  "player2" : {
+    "name" : "hello "
+  },
+  "player3" : {
+    "name" : "player3"
+  },
+  "player4" : {
+    "name" : "player4"
+  },
+  "player_count" : 5
+}
